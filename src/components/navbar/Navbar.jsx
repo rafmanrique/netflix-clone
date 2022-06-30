@@ -28,7 +28,7 @@ const Navbar = () => {
                 <Search className='icon'/>
                 <span>KID</span>
                 <Notifications className='icon'/>
-                <img src="https://lh3.googleusercontent.com/a-/AOh14GgV4EFC5YqBKLkVV_PnhEQ5LYqC-AdvRVe7lshKcg=s360-p-rw-no" alt="" />
+                <img src="https://media-exp1.licdn.com/dms/image/C5603AQExE9EAdXRlgg/profile-displayphoto-shrink_800_800/0/1649088685998?e=1661990400&v=beta&t=QpVvvBWllqoHW0H9lMAYPKFd8BKhtfGKZ4gEWs7O7b0" alt="" />
                 <div className="profile">
                     <ArrowDropDown className='icon'/>
                     <div className="options">
