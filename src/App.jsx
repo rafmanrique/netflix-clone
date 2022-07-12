@@ -1,8 +1,9 @@
-import Home from "./home/Home.jsx";
+import Home from "./pages/home/Home.jsx";
 import "./app.scss"
+import Watch from "./pages/home/watch/Watch.jsx";
 
 const App = () => {
-  return <Home/>;
+  return <Watch/>;
 };
 
 export default App;
